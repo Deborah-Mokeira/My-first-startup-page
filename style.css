@@ -8,6 +8,7 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  max-width:300px;
 }
 h1 {
   font-size: 3rem;
