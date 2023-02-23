@@ -4,10 +4,10 @@ html {
   height: 100%;
   font-family: "Montserrat", sans-serif;
   background: url(header.jpg) no-repeat center center fixed;
-   -webkit-background-size: contain;
-  -moz-background-size: contain;
-  -o-background-size: contain;
-  background-size: contain;
+   -webkit-background-size: ;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 
 }
 h1 {
