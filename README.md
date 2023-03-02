@@ -19,7 +19,7 @@ Features
 
 Getting Started
 To get started, simply clone the repository and open index.html in your browser.
-git clone https://github.com/Deborah-Mokeira/My-first-startup-page/.git
+git clone https://github.com/yourusername/my-first-startup-page.git
 cd My-First-startup-page
 open index.html
 
